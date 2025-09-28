@@ -2,8 +2,8 @@
 This repository brings together the work I did before and during my studies at HE2B-ESI.
 
 ## BesoreESI
-In this folder there two projects ; 'BichonBrithDay' and 'DicoAbète'. These are project I made before my bachelor or during my first years in this school when i didn't have learn the object-oriented. I made other programme before but I unfortunately didn't save them. 
-There are not good, they haven't a 'README' file because I made those for the fun avec without any project too use them after. 
+In this folder there two projects ; 'BichonBrithDay' and 'DicoAbète'. These are project I made before my bachelor or during my first years in this school when I didn't have learn the object-oriented. I made other programme before but I unfortunately didn't save them. 
+There are not good, they haven't a 'README' file because I made those for the fun without any project too use them after. 
 ### BichonBirthDay
 It's a quizz app for questonning my best friend about our friendship. For my security and my privatie, I delete the question. 
 ### DicoAbète 
