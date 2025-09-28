@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="@color/background_perso"
+    android:padding="24dp">
+
+    <TextView
+        android:id="@+id/spitch"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Joyeux Anniversaire  🎉 \n\n Réponds correctement aux questions et tu auras
+        droit à des indications pour tes cadeaux ❤"
+        android:textColor="@color/white"
+        android:textSize="24dp"
+        android:textStyle="bold"
+        android:textAlignment="center"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="40dp"/>
+
+    <Button
+        android:id="@+id/button_start"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Commencer"
+        android:layout_below="@+id/spitch"
+        android:layout_centerHorizontal="true"
+        android:textColor="@color/white"
+        android:backgroundTint="@color/btn_color"/>
+
+
+</RelativeLayout>

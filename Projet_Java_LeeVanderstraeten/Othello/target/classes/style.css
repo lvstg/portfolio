@@ -1,0 +1,224 @@
+.button-style {
+    -fx-font-family: "Okaso";
+    -fx-font-size: 20px;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+
+    -fx-border-color: linear-gradient(from 0% 0% to 100% 0%, #1D3E1D,#000000);
+    -fx-border-width: 2px;
+    -fx-border-style: solid;
+
+    -fx-background-radius: 13;
+    -fx-border-radius: 10;
+
+    -fx-background-color: linear-gradient(from 0% 0% to 100% 0%, #3F6631,#101010 );
+}
+
+.button-style:hover {
+    -fx-background-color: linear-gradient(from 0% 0% to 100% 0%, #365C2E, #060606);
+    -fx-cursor: hand;
+}
+.choice-box-style{
+    -fx-font-family: "Okaso";
+    -fx-font-size: 20px;
+
+    -fx-background-radius: 8;
+    -fx-border-radius: 5;
+
+    -fx-background-color: white;
+
+    -fx-focus-color: transparent;
+    -fx-faint-focus-color:transparent ;
+
+    -fx-selection-bar: "#3F6631";
+}
+.choice-box-style:hover{
+    -fx-cursor: hand;
+}
+.label-style {
+    -fx-font-family: "Okaso";
+    -fx-font-size: 40px;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+}
+.field-style{
+    -fx-font-family: "Okaso";
+    -fx-font-size: 20px;
+
+    -fx-focus-color: transparent;
+    -fx-faint-focus-color:transparent ;
+
+
+    -fx-background-radius: 8;
+    -fx-border-radius: 5;
+
+    -fx-highlight-fill: #3F6631;
+}
+
+
+.menu-background {
+    -fx-background-color: linear-gradient(from 50% 0% to 100% 0%, #101010, #3F6631);
+}
+
+.alert {
+    -fx-background-color: linear-gradient(to bottom left, #AB2300, #CD2A00);
+    -fx-padding: 10px;
+}
+
+.alert .header-panel{
+    -fx-background-color: transparent;
+}
+
+.alert .label {
+   -fx-font-family: "Okaso";
+       -fx-font-size: 20px;
+       -fx-text-fill: white;
+       -fx-font-weight: bold;
+}
+
+.alert .content {
+    -fx-font-family: "Okaso";
+        -fx-font-size: 15px;
+        -fx-text-fill: white;
+        -fx-font-weight: bold;
+}
+
+.alert .button-bar {
+    -fx-background-color: transparent;
+}
+.alert .button-bar .button {
+
+        -fx-font-family: "Okaso";
+            -fx-font-size: 15px;
+            -fx-text-fill: white;
+            -fx-font-weight: bold;
+
+            -fx-border-color: #8D2300 ;
+            -fx-border-width: 2px;
+            -fx-border-style: solid;
+
+            -fx-background-radius: 13;
+            -fx-border-radius: 10;
+
+            -fx-background-color: transparent;
+
+
+}
+.alert .button-bar .button:hover {
+           -fx-background-color: #AB2300;
+             -fx-cursor: hand;
+     }
+
+.buttonBox-style {
+    -fx-font-family: "Okaso";
+    -fx-font-size: 20px;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+
+    -fx-border-color: #1E3E1E;
+    -fx-border-width: 2px;
+    -fx-border-style: solid;
+
+    -fx-background-radius: 13;
+    -fx-border-radius: 10;
+
+    -fx-background-color: transparent;
+}
+
+.buttonBox-style:hover {
+    -fx-background-color: #365C2E;
+    -fx-cursor: hand;
+}
+
+.undoRedo-style {
+    -fx-font-family: "Okaso";
+    -fx-font-size: 20px;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+
+    -fx-border-color:  #172F17;
+    -fx-border-width: 2px;
+    -fx-border-style: solid;
+
+    -fx-background-radius: 13;
+    -fx-border-radius: 10;
+
+    -fx-background-color: transparent;
+}
+
+.undoRedo-style:hover {
+    -fx-background-color: #304D26;
+    -fx-cursor: hand;
+}
+
+
+.giveUp-style {
+    -fx-font-family: "Okaso";
+    -fx-font-size: 20px;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+
+    -fx-border-color:  #7D0000;
+    -fx-border-width: 2px;
+    -fx-border-style: solid;
+
+    -fx-background-radius: 13;
+    -fx-border-radius: 10;
+
+    -fx-background-color: #A50000;
+}
+
+
+.giveUp-style:hover {
+    -fx-background-color: #9B0000;
+    -fx-cursor: hand;
+}
+
+.playerName-font {
+    -fx-font-family: "Okaso";
+    -fx-font-size: 40px;
+    -fx-text-fill: white;
+-fx-font-weight: bold;
+}
+.playerInfo-font {
+    -fx-font-family: "Okaso";
+    -fx-font-size: 30px;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+
+}
+.title-style{
+    -fx-font-family: "Okaso";
+    -fx-font-size: 70px;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+}
+.is-style{
+    -fx-font-family: "Okaso";
+    -fx-font-size: 20px;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+}
+.winnerName-style{
+    -fx-font-family: "Okaso";
+    -fx-font-size: 30px;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+}
+.playerPane-style{
+    -fx-background-color: #37572B;
+
+    -fx-background-radius: 13;
+    -fx-border-radius: 10;
+
+}
+.gamePane-style{
+    -fx-background-color: #3F6631;
+}
+
+.play-wait-style{
+    -fx-font-family: "Okaso";
+    -fx-font-size: 20px;
+    -fx-text-fill: #9EA51A;
+    -fx-font-weight: bold;
+}
