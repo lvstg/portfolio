@@ -13,7 +13,7 @@ The aim of the game is simple: to have the most pieces of your colour on the boa
   - [Give Up](#give Up)
   - [Undo](#undo)
   - [Redo](#redo)
-- [Problems](#problems)
+- [Use It](#Use It)
 
 ## Description
 
@@ -43,3 +43,5 @@ This feature is available as long as you don't modify any of your old moves. You
 using the button or the key combination 'ctrl+Y'/.
 
 
+## Use It
+To run this programme you need to add the plugin javafx-maven version 0.0.4 in yours file 'pom.xml'. After you click on side button 'Maven' select the folder 'Plugins', 'javafx' and 'javafx:run'.

@@ -1,0 +1,2 @@
+# Thymio Project
+It's a basique python project with Thymio robot. In the folders 'doc' you find a demo video and a doc to learn how to run a python code on this robot. In the 'programme' folder there is a python code which enables the robot to emerge from a labirynth. You need to install the 'Thymio Suite' to run it.
